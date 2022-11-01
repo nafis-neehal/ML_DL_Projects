@@ -1,5 +1,5 @@
-# ML_PROJ_RPI
-This is the repo for ML Projects Course at RPI (Fall 2021). I finished five independent mini-projects using Applied Machine Learning and Deep Learning models. 
+# Machine Learning Projects
+This repo currently contains 5 mini ML Projects for a course at RPI (Fall 2021). I finished five independent mini-projects using Applied Machine Learning and Deep Learning models. 
 
 Project 1: Logistic Regression on a Binary Classification Task
   - Describe an ML problem -  Stroke Prediction (Kaggle: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
